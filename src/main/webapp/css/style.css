@@ -1,0 +1,13 @@
+	.footer{
+		background: black;
+		color: white;
+		text-align: center;
+	}
+	
+	.container{
+		height: 100%;
+	}
+
+	.logo{
+		text-align: center;
+	}
